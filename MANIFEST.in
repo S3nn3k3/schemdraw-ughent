@@ -1,0 +1,6 @@
+include LICENSE.txt CHANGES.txt
+recursive-include schemdraw_ughent *.py
+recursive-include test *
+global-exclude *.ipynb_checkpoints*
+global-exclude *.pyc
+global-exclude *.pyo
